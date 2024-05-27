@@ -1,0 +1,27 @@
+header nav{
+    background-color: aqua;
+    text-decoration: none;
+    
+} 
+
+header nav a {
+    text-decoration: none;
+    background-color: red;
+    font-size: 40px;
+    padding: 10px 20px;
+}
+section aside{
+    background-color: rgb(107, 95, 90);
+    width: 400px;
+}
+.sidebar aside {
+    background-color: darkgoldenrod;
+
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
